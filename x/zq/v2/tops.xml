@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<apps>
+
+        <app>
+        <name>Video Maker - Nexus 5 KitKat</name>
+        <description>An magical video edit application for android device. </description>
+        <package>com.qine.free.videoeditor</package>
+        <icon>http://sightidea.com/applift/icons/apps/23.png</icon>
+        <price>Free</price>
+    </app>
+
+    
+    <app>
+        <name>Camera and Gallery KitKat Nexus5</name>
+        <description>Camera is very smoothly and fast.Gallery quick view or edit pictures</description>
+        <package>com.zoonapp.free.gallery3d</package>
+        <icon>http://sightidea.com/applift/icons/apps/16.png</icon>
+        <price>Free</price>
+    </app>
+    
+    
+
+     
+    
+    <app>
+        <name>Clock KitKat - Nexus 5 Clock</name>
+        <description>Best Alarm clock , World clock , Stopwatch , Timer , Desk Clock. </description>
+        <package>com.qine.free.deskclock</package>
+        <icon>http://sightidea.com/applift/icons/apps/21.png</icon>
+        <price>Free</price>
+    </app>
+    
+   
+    
+
+</apps>

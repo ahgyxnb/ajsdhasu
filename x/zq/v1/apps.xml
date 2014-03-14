@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<apps>
+     <app>
+        <name>A-Quran : Koran : أَلْقُرآن‎</name>
+        <description>A-Quran+ is one of the best Quran App provide the best experience.</description>
+        <package>qine.a.quran.free</package>
+        <icon>http://sightidea.com/applift/icons/apps/18.png</icon>
+        <price>Free</price>
+    </app>   
+    
+    <app>
+        <name>ReaderX : EBook CBZ PDF Reader</name>
+        <description>ReaderX is a highly customizable book reader.( PDF, DJVU,DjVU, XPS, fb2,etc )</description>
+        <package>qine.ebook.readerx</package>
+        <icon>http://sightidea.com/applift/icons/apps/20.png</icon>
+        <price>Free</price>
+    </app>
+     
+    
+          
+    
+
+    <app>
+        <name>SuperUser+ : Root required</name>
+        <description>Grant and manage Superuser rights for your phone.</description>
+        <package>com.qine.su</package>
+        <icon>http://sightidea.com/applift/icons/apps/22.png</icon>
+        <price>Free</price>
+    </app>     
+
+    
+
+    
+    <app>
+        <name>Video Maker and Editor</name>
+        <description>Fully featured video editing program for creating professional looking videos in minutes. </description>
+        <package>com.zoonapp.free.videoeditor</package>
+        <icon>http://sightidea.com/applift/icons/apps/17.png</icon>
+        <price>Free</price>
+    </app>
+    
+    <app>
+        <name>SSH Master Free - SSH Client</name>
+        <description>SSH Master is a powerful Secure Shell (SSH) client. </description>
+        <package>com.qine.sshmaster.free</package>
+        <icon>http://sightidea.com/applift/icons/apps/19.png</icon>
+        <price>Free</price>
+    </app>
+    
+   
+    
+
+</apps>

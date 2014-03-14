@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<applifts>
+
+    <applift>
+        <name>Choices</name>
+        <url>http://sightidea.com/applift/tg/choices.xml</url>
+    </applift>
+    
+    <applift>
+        <name>Apps</name>
+        <url>http://sightidea.com/applift/tg/apps.xml</url>
+    </applift>
+   
+   <applift>
+        <name>Games</name>
+        <url>http://sightidea.com/applift/tg/games.xml</url>
+    </applift>
+
+</applifts>

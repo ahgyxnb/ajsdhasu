@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<apps>
+
+       
+    
+    <app>
+        <name>Gallery : Nexus Gallery</name>
+        <description>Gallery+ is a faster , stabler ,more clear Photo and Video Gallery.</description>
+        <package>com.rb9.game.free.gallery3d</package>
+        <icon>http://sightidea.com/applift/icons/apps/6.png</icon>
+        <price>Free</price>
+    </app>   
+      
+    <app>
+        <name>Play Music : Music Player</name>
+        <description>Play Music was crafted to be the best media player for Android. small, but is a powerful music player.</description>
+        <package>com.play.music</package>
+        <icon>http://sightidea.com/applift/icons/apps/9.png</icon>
+        <price>Free</price>
+    </app>   
+    
+
+    <app>
+        <name>Rootuser : Superuser root user</name>
+        <description>Rootuser : Grant and manage Superuser rights for your phone.</description>
+        <package>com.gorser.superuser</package>
+        <icon>http://sightidea.com/applift/icons/apps/2.png</icon>
+        <price>Free</price>
+    </app>  
+    
+    <app>
+        <name>Video Maker : Video Editor</name>
+        <description>Video Editing App For Android Platform</description>
+        <package>com.topapploft.free.videoeditor</package>
+        <icon>http://sightidea.com/applift/icons/apps/11.png</icon>
+        <price>Free</price>
+    </app>
+    
+    
+      <app>
+        <name>Super Terminal Emulator Plus</name>
+        <description>Super Terminal is a powerful terminal emulator for Android devices.</description>
+        <package>com.gorser.terminal</package>
+        <icon>http://sightidea.com/applift/icons/apps/4.png</icon>
+        <price>Free</price>
+    </app> 
+</apps>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<apps>
+
+    <app>
+        <name>VLC Remote - VLC Media player</name>
+        <description>Control media playback of VideoLAN Client (VLC) from your Android-powered mobile device.</description>
+        <package>com.vlc.video.vlcremote</package>
+        <icon>http://sightidea.com/applift/icons/apps/28.png</icon>
+        <price>Free</price>
+    </app>
+    
+    <app>
+        <name>Easy Reader - EBook Reader</name>
+        <description>EBook Reader.Supports: epub (non-DRM), fb2, doc, txt, rtf, html, chm, tcr, pdb, prc, mobi (non-DRM), pml.</description>
+        <package>com.bookreader.easyreader</package>
+        <icon>http://sightidea.com/applift/icons/apps/25.png</icon>
+        <price>Free</price>
+    </app>
+    
+    <app>
+        <name>Battery Info - Battery Doctor</name>
+        <description>Battery Info is the original battery indicator app for Android.</description>
+        <package>com.gorser.battery</package>
+        <icon>http://sightidea.com/applift/icons/apps/1.png</icon>
+        <price>Free</price>
+    </app>
+    <app>
+        <name>WIFI Tether Plus : Network Sharing</name>
+        <description>Better WiFi Tethering App , share your network.</description>
+        <package>com.topapploft.wifi.tether</package>
+        <icon>http://sightidea.com/applift/icons/apps/24.png</icon>
+        <price>Free</price>
+    </app>
+        
+    <app>
+        <name>Bible Reader - HOLY BIBLE SET</name>
+        <description>Bible Reader : Simple ,Fast BIBLE APP. Supports many kinds of Bible versions.</description>
+        <package>com.bible.biblereader</package>
+        <icon>http://sightidea.com/applift/icons/apps/5.png</icon>
+        <price>Free</price>
+    </app>
+    
+        <app>
+        <name>SMS Backup and Restore (Call Logs)</name>
+        <description>SMS Backuper is a simple and powerful Android backup app . It is used to backs up and restores your phones SMS(text messages),Call Log , MMS , WhatsApp.</description>
+        <package>com.gorser.smsbackup</package>
+        <icon>http://sightidea.com/applift/icons/apps/3.png</icon>
+        <price>Free</price>
+    </app>
+    
+    
+    
+    <app>
+        <name>Music Editor and Ringtone Editor</name>
+        <description>Easy to edit music and make Ringtone!</description>
+        <package>com.ringtone.diy</package>
+        <icon>http://sightidea.com/applift/icons/apps/8.png</icon>
+        <price>Free</price>
+    </app>        
+
+    
+
+
+    
+
+
+</apps>

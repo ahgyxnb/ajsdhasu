@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<apps>
+
+    <app>
+        <name>NDS Game Emulator for Android</name>
+        <description>NDS Emulator is a great Nintendo DS emulator. It runs Nintendo DS games on your Android phone or tablet.</description>
+        <package>com.gorser.nds</package>
+        <icon>http://sightidea.com/applift/icons/games/1.png</icon>
+        <price>Free</price>
+    </app>
+    
+    <app>
+        <name>PocketMC : Inventory Editor</name>
+        <description>PocketMC is an inventory editor for Minecraft Pocket Edition.</description>
+        <package>com.gorser.pockettoolkit</package>
+        <icon>http://sightidea.com/applift/icons/games/2.png</icon>
+        <price>Free</price>
+    </app>
+    
+    <app>
+        <name>Frozen Bubble : Bubble shoot</name>
+        <description>Frozen Bubble is a bubble games, Fun and addictive bubble shoot game!</description>
+        <package>com.topapploft.frozenbubble</package>
+        <icon>http://sightidea.com/applift/icons/games/3.png</icon>
+        <price>Free</price>
+    </app>
+    
+    
+</apps>

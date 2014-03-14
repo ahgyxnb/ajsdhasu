@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<applifts>
+
+    <applift>
+        <name>Choices</name>
+        <url>http://sightidea.com/applift/zq/choices.xml</url>
+    </applift>
+    
+    <applift>
+        <name>Apps</name>
+        <url>http://sightidea.com/applift/zq/apps.xml</url>
+    </applift>
+    <applift>
+        <name>Tops</name>
+        <url>http://sightidea.com/applift/zq/tops.xml</url>
+    </applift>
+</applifts>
