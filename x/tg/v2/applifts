@@ -3,17 +3,17 @@
 
     <applift>
         <name>Choices</name>
-        <url>http://sightidea.com/applift/v2/tg/choices.xml</url>
+        <url>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/tg/v2/choices.xml</url>
     </applift>
     
     <applift>
         <name>Apps</name>
-        <url>http://sightidea.com/applift/v2/tg/apps.xml</url>
+        <url>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/tg/v2/apps.xml</url>
     </applift>
    
    <applift>
         <name>Games</name>
-        <url>http://sightidea.com/applift/v2/tg/games.xml</url>
+        <url>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/tg/v2/games.xml</url>
     </applift>
 
 </applifts>

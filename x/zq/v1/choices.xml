@@ -5,7 +5,7 @@
         <name>HD Video Player - Movie Player</name>
         <description>Play HD Video,HD Movies. Supports AVI, 3GP, M4V, MOV, MP4, WMV, RMVB, MKV, TS, MPG, FLV, etc. </description>
         <package>video.videoplayer.hdvideoplayer</package>
-        <icon>http://sightidea.com/applift/icons/apps/29.png</icon>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/29.png</icon>
         <price>Free</price>
     </app>
     
@@ -13,14 +13,14 @@
         <name>AnyMail - Universal Email App</name>
         <description>AnyMail is one the best universal email app for Android.Works with Gmail, Exchange, Yahoo, Outlook, iCloud, Google Apps, HotMail and any IMAP account etc.</description>
         <package>com.email.anymail</package>
-        <icon>http://sightidea.com/applift/icons/apps/12.png</icon>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/12.png</icon>
         <price>Free</price>
     </app>
         <app>
         <name>Storm Browser - Web Browser</name>
         <description>Smallest, fastest Android web browsers around. It is a high-performance small-sized Internet browser built for those who dont want the cumbersome size of Firefox or Chrome.</description>
         <package>com.webbrowser.storm</package>
-        <icon>http://sightidea.com/applift/icons/apps/27.png</icon>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/27.png</icon>
         <price>Free</price>
     </app>
 
@@ -28,7 +28,7 @@
         <name>Offline Dictionary</name>
         <description>PocketDict : offline dictionary multilingual translation dictionary.</description>
         <package>com.dictionary.offlinedictionary</package>
-        <icon>http://sightidea.com/applift/icons/apps/26.png</icon>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/26.png</icon>
         <price>Free</price>
     </app>
             
@@ -36,7 +36,7 @@
         <name>Holy Bible - All In One</name>
         <description>Holy Bible : One of the best Holy Bible app. Support for multiple languages​​, multiple versions of the Bible.</description>
         <package>com.bible.holybible.activity</package>
-        <icon>http://sightidea.com/applift/icons/apps/14.png</icon>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/14.png</icon>
         <price>Free</price>
     </app>
     
@@ -46,7 +46,7 @@
         <name>EBook Reader and Docs Viewer</name>
         <description>A fast, highly customizable Book Reader. Supports epub, rtf, doc (MS Word), html, fb2(.zip), mobi (including non-protected kindle books), and plain text file formats</description>
         <package>com.zoon.ebook.reader</package>
-        <icon>http://sightidea.com/applift/icons/apps/15.png</icon>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/15.png</icon>
         <price>Free</price>
     </app>
 </apps>
