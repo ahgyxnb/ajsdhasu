@@ -2,10 +2,10 @@
 <apps>
 
     <app>
-        <name>VLC Remote - VLC Media player</name>
-        <description>Control media playback of VideoLAN Client (VLC) from your Android-powered mobile device.</description>
-        <package>com.vlc.video.vlcremote</package>
-        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/28.png</icon>
+        <name>Media Player - HD Video Player</name>
+        <description>The most powerful Media Player in android market.Supported 200+ Video and Audio Formats</description>
+        <package>vlc.videoplayer.mediaplayer</package>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/31.png</icon>
         <price>Free</price>
     </app>
     
@@ -39,13 +39,7 @@
         <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/5.png</icon>
         <price>Free</price>
     </app>
-    <app>
-        <name>SMS Backup and Restore (Call Logs)</name>
-        <description>SMS Backuper is a simple and powerful Android backup app . It is used to backs up and restores your phones SMS(text messages),Call Log , MMS , WhatsApp.</description>
-        <package>com.gorser.smsbackup</package>
-        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/3.png</icon>
-        <price>Free</price>
-    </app>    
+ 
     <app>
         <name>Music Editor and Ringtone Editor</name>
         <description>Easy to edit music and make Ringtone!</description>
