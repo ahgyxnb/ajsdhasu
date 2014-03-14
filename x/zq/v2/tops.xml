@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
-
+       
+        <app>
+        <name>EBook Reader and Docs Viewer</name>
+        <description>A fast, highly customizable Book Reader. Supports epub, rtf, doc (MS Word), html, fb2(.zip), mobi (including non-protected kindle books), and plain text file formats</description>
+        <package>com.zoon.ebook.reader</package>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/15.png</icon>
+        <price>Free</price>
+    </app>
+	
         <app>
         <name>Video Maker - Nexus 5 KitKat</name>
         <description>An magical video edit application for android device. </description>
