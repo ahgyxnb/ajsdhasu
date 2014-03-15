@@ -38,7 +38,14 @@
         <price>Free</price>
     </app>
     
-   
+ 	
+   <app>
+        <name>Storm Browser - Web Browser</name>
+        <description>Smallest, fastest Android web browsers around. It is a high-performance small-sized Internet browser built for those who dont want the cumbersome size of Firefox or Chrome.</description>
+        <package>com.webbrowser.storm</package>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/27.png</icon>
+        <price>Free</price>
+    </app>  
     
 
 </apps>
