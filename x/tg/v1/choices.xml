@@ -7,7 +7,13 @@
         <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/4.png</icon>
         <price>Free</price>
     </app>
-	
+    <app>
+        <name>MobPDF:PDF Annotator Reader</name>
+        <description>MobPDF: small and fast PDF,XPS,CBZ viewer, annotator, form filler, printing.Supports PDF with transparency, encryption, hyperlinks, annotations, searching and more.</description>
+        <package>pdf.pdfannotation.pdfreader</package>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/33.png</icon>
+        <price>Free</price>
+    </app>	
     <app>
         <name>Media Player HD Video Player</name>
         <description>HD Video Player and Music Player.Supported 200+ Video and Audio Formats</description>
