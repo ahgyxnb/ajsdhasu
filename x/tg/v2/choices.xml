@@ -2,8 +2,8 @@
 <apps>
 
     <app>
-        <name>Media Player - HD Video Player</name>
-        <description>The most powerful Media Player in android market.Supported 200+ Video and Audio Formats</description>
+        <name>Media Player HD Video Player</name>
+        <description>HD Video Player and Music Player.Supported 200+ Video and Audio Formats</description>
         <package>vlc.videoplayer.mediaplayer</package>
         <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/31.png</icon>
         <price>Free</price>
