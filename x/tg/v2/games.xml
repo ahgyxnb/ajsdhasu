@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
-
+    <app>
+        <name>XSudoku 5000+ Sudoku puzzles</name>
+        <description>XSudoku:Pure and simple Sudoku Game. More than 5000+ sudoku puzzles. Divided into 6 level(Easy,Hard,Very Hard,Extreme,Nightmare),There are also 4 categories(Snowflake puzzles, Learning Curve, No Trick ,Superiors).</description>
+        <package>sudoku.holosudoku.sudu.supersudoku</package>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/4.png</icon>
+        <price>Free</price>
+    </app>
     <app>
         <name>NDS Game Emulator for Android</name>
         <description>NDS Emulator is a great Nintendo DS emulator. It runs Nintendo DS games on your Android phone or tablet.</description>
