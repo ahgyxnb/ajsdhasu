@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<apps>
+    <app>
+        <name>Sudoku 5000+ puzzles</name>
+        <description>Pure and simple Sudoku Game. More than 5000+ sudoku puzzles. Divided into 6 level(Easy,Hard,Very Hard,Extreme,Nightmare),There are also 4 categories(Snowflake puzzles, Learning Curve, No Trick ,Superiors).</description>
+        <package>sudoku.holosudoku.sudu.supersudoku</package>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/4.png</icon>
+        <price>Free</price>
+    </app>
+    <app>
+        <name>Dungeon Warriors RPG Game</name>
+        <description>Dungeon Warriors : Fantasy RPG Game with a powerful story. </description>
+        <package>game.gpl.rpg.dungeonwarriors</package>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/5.png</icon>
+        <price>Free</price>
+    </app>
+    <app>
+        <name>Media Player HD Video Player</name>
+        <description>HD Video Player and Music Player.Supported 200+ Video and Audio Formats</description>
+        <package>vlc.videoplayer.mediaplayer</package>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/31.png</icon>
+        <price>Free</price>
+    </app>
+    
+
+    <app>
+        <name>WIFI Tether Plus : Network Sharing</name>
+        <description>Better WiFi Tethering App , share your network.</description>
+        <package>com.topapploft.wifi.tether</package>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/24.png</icon>
+        <price>Free</price>
+    </app>
+        
+    <app>
+        <name>Bible Reader - HOLY BIBLE SET</name>
+        <description>Bible Reader : Simple ,Fast BIBLE APP. Supports many kinds of Bible versions.</description>
+        <package>com.bible.biblereader</package>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/5.png</icon>
+        <price>Free</price>
+    </app>
+    
+    
+
+    
+
+
+</apps>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<applifts>
+
+    <applift>
+        <name>Choices</name>
+        <url>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/rb89/v1/choices.xml</url>
+    </applift>
+    
+   
+   <applift>
+        <name>Games</name>
+        <url>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/rb89/v1/games.xml</url>
+    </applift>
+
+</applifts>
