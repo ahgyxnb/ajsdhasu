@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
     <app>
+        <name>Train Crisis HD</name>
+        <description>What an amazing and challenging game! Connecting train tracks let the train to pass.</description>
+        <package>game.traincrisis.traingame</package>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/6.png</icon>
+        <price>$1.49</price>
+    </app>
+    <app>
         <name>Dungeon Warriors RPG Game</name>
         <description>Dungeon Warriors : Fantasy RPG Game with a powerful story. </description>
         <package>game.gpl.rpg.dungeonwarriors</package>
