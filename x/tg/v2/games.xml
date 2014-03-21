@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
+
+    <app>
+        <name>Train Crisis HD</name>
+        <description>What an amazing and challenging game! Connecting train tracks let the train to pass.</description>
+        <package>game.traincrisis.traingame</package>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/6.png</icon>
+        <price>$1.49</price>
+    </app>
     <app>
         <name>Sudoku 5000+ puzzles</name>
         <description>Pure and simple Sudoku Game. More than 5000+ sudoku puzzles. Divided into 6 level(Easy,Hard,Very Hard,Extreme,Nightmare),There are also 4 categories(Snowflake puzzles, Learning Curve, No Trick ,Superiors).</description>
