@@ -22,6 +22,13 @@
         <price>Free</price>
     </app>
     <app>
+        <name>Fantasy Bubble : Bubble shoot</name>
+        <description>Fantasy Bubble is a bubble games, Fun and addictive bubble shoot game!</description>
+        <package>game.bubbleshoot.frozenbubble</package>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/3.png</icon>
+        <price>Free</price>
+    </app>	
+    <app>
         <name>Media Player HD Video Player</name>
         <description>HD Video Player and Music Player.Supported 200+ Video and Audio Formats</description>
         <package>vlc.videoplayer.mediaplayer</package>

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
-       
+    <app>
+        <name>Fantasy Bubble : Bubble shoot</name>
+        <description>Fantasy Bubble is a bubble games, Fun and addictive bubble shoot game!</description>
+        <package>game.bubbleshoot.frozenbubble</package>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/3.png</icon>
+        <price>Free</price>
+    </app>       
         <app>
         <name>EBook Reader and Docs Viewer</name>
         <description>A fast, highly customizable Book Reader. Supports epub, rtf, doc (MS Word), html, fb2(.zip), mobi (including non-protected kindle books), and plain text file formats</description>

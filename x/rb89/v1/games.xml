@@ -38,9 +38,9 @@
     </app>
     
     <app>
-        <name>Frozen Bubble : Bubble shoot</name>
-        <description>Frozen Bubble is a bubble games, Fun and addictive bubble shoot game!</description>
-        <package>com.topapploft.frozenbubble</package>
+        <name>Fantasy Bubble : Bubble shoot</name>
+        <description>Fantasy Bubble is a bubble games, Fun and addictive bubble shoot game!</description>
+        <package>game.bubbleshoot.frozenbubble</package>
         <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/3.png</icon>
         <price>Free</price>
     </app>

@@ -38,6 +38,18 @@
         <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/7.png</icon>
         <price>Free</price>
     </app>
-    
-    
+    <app>
+        <name>Fantasy Bubble : Bubble shoot</name>
+        <description>Fantasy Bubble is a bubble games, Fun and addictive bubble shoot game!</description>
+        <package>game.bubbleshoot.frozenbubble</package>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/3.png</icon>
+        <price>Free</price>
+    </app>    
+    <app>
+        <name>Monsters Tower Defense HD</name>
+        <description>Monsters Tower Defense - A classic tower defense game for any beginners or defensive specialist!</description>
+        <package>game.towerdefense.swampdefense.monsterdefensegles</package>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/8.png</icon>
+        <price>Free</price>
+    </app>    
 </apps>
