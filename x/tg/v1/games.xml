@@ -32,10 +32,10 @@
     </app>
     
     <app>
-        <name>Frozen Bubble : Bubble shoot</name>
-        <description>Frozen Bubble is a bubble games, Fun and addictive bubble shoot game!</description>
-        <package>com.topapploft.frozenbubble</package>
-        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/3.png</icon>
+        <name>Jumping Bean</name>
+        <description>Little bean running on his way and jumping over barricades toward the final victory.</description>
+        <package>game.jumpingbean.crazyjumpergles</package>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/7.png</icon>
         <price>Free</price>
     </app>
     
