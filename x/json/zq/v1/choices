@@ -4,7 +4,8 @@
 	"description":"What an amazing and challenging game! Connecting train tracks let the train to pass.",
 	"package":"game.traincrisis.traingame",
 	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/6.png",
-	"price":"$1.49"
+	"price":"$1.49",
+	"new":"1"
 	},
 	
 	{
@@ -12,7 +13,8 @@
 	"description":"Pure and simple Sudoku Game. More than 5000+ sudoku puzzles. Divided into 6 level(Easy,Hard,Very Hard,Extreme,Nightmare),There are also 4 categories(Snowflake puzzles, Learning Curve, No Trick ,Superiors).",
 	"package":"sudoku.holosudoku.sudu.supersudoku",
 	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/4.png",
-	"price":"Free"
+	"price":"Free",
+	"new":"1"
 	},
 	
 	{
@@ -52,7 +54,8 @@
 	"description":"Convert other file format to image(JPG or PNG). Supported: PDF , XPS , CBZ , JFIF , TIF , PNG , JPG etc",
 	"package":"com.sightidea.x2image",
 	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/35.png",
-	"price":"Free"
+	"price":"Free",
+	"new":"1"
 	},
 	
 	{
@@ -60,6 +63,7 @@
 	"description":"Good helper to manage your schedules and notes. It gives you a quick and simple notepad editing experience when you write notes, memo, email, message, shopping list and to do list.",
 	"package":"com.sightidea.notes",
 	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/34.png",
-	"price":"Free"
+	"price":"Free",
+	"new":"1"
 	}
 ]

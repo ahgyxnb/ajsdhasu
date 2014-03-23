@@ -4,7 +4,8 @@
 	"description":"Fantasy Bubble is a bubble games, Fun and addictive bubble shoot game!",
 	"package":"game.bubbleshoot.frozenbubble",
 	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/3.png",
-	"price":"Free"
+	"price":"Free",
+	"new":"1"
 	},
 	
 	{

@@ -20,7 +20,8 @@
 	"description":"Convert other file format to image(JPG or PNG). Supported: PDF , XPS , CBZ , JFIF , TIF , PNG , JPG etc ",
 	"package":"com.sightidea.x2image",
 	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/35.png",
-	"price":"Free"
+	"price":"Free",
+	"new":"1"
 	},
 	
 	{
@@ -28,7 +29,8 @@
 	"description":"Good helper to manage your schedules and notes. It gives you a quick and simple notepad editing experience when you write notes, memo, email, message, shopping list and to do list. ",
 	"package":"com.sightidea.notes",
 	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/34.png",
-	"price":"Free"
+	"price":"Free",
+	"new":"1"
 	},
 	
 	{
