@@ -1,0 +1,16 @@
+[
+	{
+	"name":"Choices",
+	"url":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/json/tg/v1/choices"
+	},
+	
+	{
+	"name":"Apps",
+	"url":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/json/tg/v1/apps"
+	},
+	
+	{
+	"name":"Games",
+	"url":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/json/tg/v1/games"
+	}
+]

@@ -1,0 +1,73 @@
+[
+	{
+	"name":"VLC Remote - VLC Media player",
+	"description":"Control media playback of VideoLAN Client (VLC) from your Android-powered mobile device.",
+	"package":"com.vlc.video.vlcremote",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/28.png",
+	"price":"Free"
+	},
+	
+	{
+	"name":"SMS Backup and Restore (Call Logs)",
+	"description":"SMS Backuper is a simple and powerful Android backup app . It is used to backs up and restores your phones SMS(text messages),Call Log , MMS , WhatsApp.",
+	"package":"com.gorser.smsbackup",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/3.png",
+	"price":"Free"
+	},
+	
+	{
+	"name":"X2Image Convert to Image",
+	"description":"Convert other file format to image(JPG or PNG). Supported: PDF , XPS , CBZ , JFIF , TIF , PNG , JPG etc ",
+	"package":"com.sightidea.x2image",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/35.png",
+	"price":"Free"
+	},
+	
+	{
+	"name":"Notes - To do List",
+	"description":"Good helper to manage your schedules and notes. It gives you a quick and simple notepad editing experience when you write notes, memo, email, message, shopping list and to do list. ",
+	"package":"com.sightidea.notes",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/34.png",
+	"price":"Free"
+	},
+	
+	{
+	"name":"Gallery : Nexus Gallery",
+	"description":"Gallery+ is a faster , stabler ,more clear Photo and Video Gallery.",
+	"package":"com.rb9.game.free.gallery3d",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/6.png",
+	"price":"Free"
+	},
+		
+	{
+	"name":"Play Music : Music Player",
+	"description":"Play Music was crafted to be the best media player for Android. small, but is a powerful music player.",
+	"package":"com.play.music",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/9.png",
+	"price":"Free"
+	},
+	
+	{
+	"name":"Rootuser : Superuser root user",
+	"description":"Rootuser : Grant and manage Superuser rights for your phone.",
+	"package":"com.gorser.superuser",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/2.png",
+	"price":"Free"
+	},
+	
+	{
+	"name":"Video Maker : Video Editor",
+	"description":"Video Editing App For Android Platform",
+	"package":"com.topapploft.free.videoeditor",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/11.png",
+	"price":"Free"
+	},
+		
+	{
+	"name":"Super Terminal Emulator Plus",
+	"description":"Super Terminal is a powerful terminal emulator for Android devices.",
+	"package":"com.gorser.terminal",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/4.png",
+	"price":"Free"
+	}
+]

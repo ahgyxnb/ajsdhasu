@@ -1,0 +1,57 @@
+[
+	{
+	"name":"NDS Game Emulator for Android",
+	"description":"NDS Emulator is a great Nintendo DS emulator. It runs Nintendo DS games on your Android phone or tablet.",
+	"package":"com.gorser.nds",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/1.png",
+	"price":"Free"
+	},
+	
+	{
+	"name":"PocketMC : Inventory Editor",
+	"description":"PocketMC is an inventory editor for Minecraft Pocket Edition.",
+	"package":"com.gorser.pockettoolkit",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/2.png",
+	"price":"Free"
+	},
+	
+	{
+	"name":"Jumping Bean",
+	"description":"Little bean running on his way and jumping over barricades toward the final victory.",
+	"package":"game.jumpingbean.crazyjumpergles",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/7.png",
+	"price":"Free"
+	},
+	
+	{
+	"name":"Fantasy Bubble : Bubble shoot",
+	"description":"Fantasy Bubble is a bubble games, Fun and addictive bubble shoot game!",
+	"package":"game.bubbleshoot.frozenbubble",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/3.png",
+	"price":"Free"
+	},
+		
+	{
+	"name":"Monsters Tower Defense HD",
+	"description":"Monsters Tower Defense - A classic tower defense game for any beginners or defensive specialist!",
+	"package":"game.towerdefense.swampdefense.monsterdefensegles",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/8.png",
+	"price":"$0.99"
+	},
+		
+	{
+	"name":"Train Crisis HD",
+	"description":"What an amazing and challenging game! Connecting train tracks let the train to pass.",
+	"package":"game.traincrisis.traingame",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/6.png",
+	"price":"$1.49"
+	},
+		
+	{
+	"name":"Sudoku 5000+ puzzles",
+	"description":"Pure and simple Sudoku Game. More than 5000+ sudoku puzzles. Divided into 6 level(Easy,Hard,Very Hard,Extreme,Nightmare),There are also 4 categories(Snowflake puzzles, Learning Curve, No Trick ,Superiors).",
+	"package":"sudoku.holosudoku.sudu.supersudoku",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/4.png",
+	"price":"Free"
+	}
+]

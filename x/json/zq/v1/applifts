@@ -1,0 +1,17 @@
+[
+
+	{
+	"name":"Choices",
+	"url":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/json/zq/v1/choices"
+	},
+	
+	{
+	"name":"Apps",
+	"url":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/json/zq/v1/apps"
+	},
+	
+	{
+	"name":"tops",
+	"url":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/json/zq/v1/tops"
+	}
+]
