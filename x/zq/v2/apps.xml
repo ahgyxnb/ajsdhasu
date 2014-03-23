@@ -17,7 +17,22 @@
     </app>
      
 
-          
+    <app>
+        <name>QRCode Barcode Scanner Plus</name>
+        <description>Scan Barcode QRCode, Create Barcode QRCode, Share Barcode QRCode..</description>
+        <package>barcodescanner.qrcode.barcode.scanner</package>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/30.png</icon>
+        <price>Free</price>
+    </app>
+	
+
+        <app>
+        <name>Offline Dictionary</name>
+        <description>PocketDict : offline dictionary multilingual translation dictionary.</description>
+        <package>com.dictionary.offlinedictionary</package>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/26.png</icon>
+        <price>Free</price>
+    </app>           
     
 
     <app>
@@ -27,8 +42,7 @@
         <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/22.png</icon>
         <price>Free</price>
     </app>     
-
-    
+   
 
     
     <app>

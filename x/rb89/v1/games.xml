@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
     <app>
+        <name>Jumping Bean</name>
+        <description>Little bean running on his way and jumping over barricades toward the final victory.</description>
+        <package>game.jumpingbean.crazyjumpergles</package>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/7.png</icon>
+        <price>Free</price>
+    </app>
+    <app>
         <name>Monsters Tower Defense HD</name>
         <description>Monsters Tower Defense - A classic tower defense game for any beginners or defensive specialist!</description>
         <package>game.towerdefense.swampdefense.monsterdefensegles</package>
