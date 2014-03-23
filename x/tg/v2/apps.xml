@@ -15,7 +15,21 @@
         <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/3.png</icon>
         <price>Free</price>
     </app>          
-    
+    <app>
+        <name>X2Image Convert to Image</name>
+        <description>Convert other file format to image(JPG or PNG). Supported: PDF , XPS , CBZ , JFIF , TIF , PNG , JPG etc </description>
+        <package>com.sightidea.x2image</package>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/35.png</icon>
+        <price>Free</price>
+    </app>    
+
+     <app>
+        <name>Notes - To do List</name>
+        <description>Good helper to manage your schedules and notes. It gives you a quick and simple notepad editing experience when you write notes, memo, email, message, shopping list and to do list. </description>
+        <package>com.sightidea.notes</package>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/34.png</icon>
+        <price>Free</price>
+    </app>     
     <app>
         <name>Gallery : Nexus Gallery</name>
         <description>Gallery+ is a faster , stabler ,more clear Photo and Video Gallery.</description>
