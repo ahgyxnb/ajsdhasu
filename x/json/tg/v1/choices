@@ -1,13 +1,4 @@
-[
-	{
-	"name":"Flappy Bird 3",
-	"description":"Fly into freedom! The Flappy Bird game which has been loved all over the world finally reborn.",
-	"package":"game.flappybird.flappybee.clappybird",
-	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/10.png",
-	"price":"Free",
-	"new":"1"
-	},
-	
+[	
 	{
 	"name":"Train Crisis HD",
 	"description":"What an amazing and challenging game! Connecting train tracks let the train to pass.",
