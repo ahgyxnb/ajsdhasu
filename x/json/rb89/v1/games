@@ -1,5 +1,14 @@
 [
 	{
+	"name":"Super Mario",
+	"description":"Super Mario Brothers Game for Android. Based on the classic Nintendo game Super Mario. Enjoy the fun of childhood",
+	"package":"game.nds.mario.supermario",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/12.png",
+	"price":"Free",
+	"new":"1"
+	},
+	
+	{
 	"name":"Memory Training Ultimate",
 	"description":"It can be your memory trainer. Funny memory game for kids and adults! Ultimate Memory Training!",
 	"package":"game.ultimatememory.memorygame.free",

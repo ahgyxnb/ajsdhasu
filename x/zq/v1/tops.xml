@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
     <app>
+        <name>Flappy Bird 3</name>
+        <description>Fly into freedom! The Flappy Bird game which has been loved all over the world finally reborn.</description>
+        <package>flybird.flappybird.flappybee.clappybird</package>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/10.png</icon>
+        <price>Free</price>
+    </app>
+
+    <app>
         <name>Train Crisis HD</name>
         <description>What an amazing and challenging game! Connecting train tracks let the train to pass.</description>
         <package>game.traincrisis.traingame</package>

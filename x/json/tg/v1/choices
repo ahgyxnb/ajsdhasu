@@ -1,4 +1,13 @@
-[	
+[
+	{
+	"name":"Flappy Bird Original",
+	"description":"Different colors FlappyBird , Two kinds of background(Day and night).",
+	"package":"flappybird.clappybird.flappybee.floppybird",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/11.png",
+	"price":"Free",
+	"new":"1"
+	},
+		
 	{
 	"name":"Train Crisis HD",
 	"description":"What an amazing and challenging game! Connecting train tracks let the train to pass.",

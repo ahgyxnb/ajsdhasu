@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
     <app>
+        <name>Super Mario</name>
+        <description>Super Mario Brothers Game for Android. Based on the classic Nintendo game Super Mario. Enjoy the fun of childhood</description>
+        <package>game.nds.mario.supermario</package>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/12.png</icon>
+        <price>Free</price>
+    </app>
+    <app>
         <name>Train Crisis HD</name>
         <description>What an amazing and challenging game! Connecting train tracks let the train to pass.</description>
         <package>game.traincrisis.traingame</package>
