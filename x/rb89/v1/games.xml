@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
     <app>
+        <name>Train Crisis HD</name>
+        <description>What an amazing and challenging game! Connecting train tracks let the train to pass.</description>
+        <package>game.traincrisis.traingame</package>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/6.png</icon>
+        <price>$1.49</price>
+    </app>
+    <app>
+        <name>Memory Training Ultimate</name>
+        <description>It can be your memory trainer. Funny memory game for kids and adults! Ultimate Memory Training!</description>
+        <package>game.ultimatememory.memorygame.free</package>
+        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/9.png</icon>
+        <price>Free</price>
+    </app>
+    <app>
         <name>Jumping Bean</name>
         <description>Little bean running on his way and jumping over barricades toward the final victory.</description>
         <package>game.jumpingbean.crazyjumpergles</package>
@@ -29,37 +43,6 @@
         <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/2.png</icon>
         <price>Free</price>
     </app>
-    
-    <app>
-        <name>Fantasy Bubble : Bubble shoot</name>
-        <description>Fantasy Bubble is a bubble games, Fun and addictive bubble shoot game!</description>
-        <package>game.bubbleshoot.frozenbubble</package>
-        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/3.png</icon>
-        <price>Free</price>
-    </app>
-    
-    <app>
-        <name>Dungeon Warriors RPG Game</name>
-        <description>Dungeon Warriors : Fantasy RPG Game with a powerful story. </description>
-        <package>game.gpl.rpg.dungeonwarriors</package>
-        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/5.png</icon>
-        <price>Free</price>
-    </app>    
-	
-    <app>
-        <name>Sudoku 5000+ puzzles</name>
-        <description>Pure and simple Sudoku Game. More than 5000+ sudoku puzzles. Divided into 6 level(Easy,Hard,Very Hard,Extreme,Nightmare),There are also 4 categories(Snowflake puzzles, Learning Curve, No Trick ,Superiors).</description>
-        <package>sudoku.holosudoku.sudu.supersudoku</package>
-        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/4.png</icon>
-        <price>Free</price>
-    </app>	
-	
-    <app>
-        <name>Train Crisis HD</name>
-        <description>What an amazing and challenging game! Connecting train tracks let the train to pass.</description>
-        <package>game.traincrisis.traingame</package>
-        <icon>https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/6.png</icon>
-        <price>$1.49</price>
-    </app>
+
 	
 </apps>
