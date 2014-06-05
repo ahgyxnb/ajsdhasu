@@ -1,0 +1,78 @@
+[
+	{
+	"name":"Flappy Bird Original",
+	"description":"Different colors FlappyBird , Two kinds of background(Day and night).",
+	"package":"flappybird.clappybird.flappybee.floppybird",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/11.png",
+	"price":"Free",
+	"new":"1"
+	},
+	
+	{
+	"name":"Train Crisis HD",
+	"description":"What an amazing and challenging game! Connecting train tracks let the train to pass.",
+	"package":"game.traincrisis.traingame",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/6.png",
+	"price":"$1.49",
+	"new":"1"
+	},
+	
+	{
+	"name":"Sudoku 5000+ puzzles",
+	"description":"Pure and simple Sudoku Game. More than 5000+ sudoku puzzles. Divided into 6 level(Easy,Hard,Very Hard,Extreme,Nightmare),There are also 4 categories(Snowflake puzzles, Learning Curve, No Trick ,Superiors).",
+	"package":"sudoku.holosudoku.sudu.supersudoku",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/games/4.png",
+	"price":"Free",
+	"new":"1"
+	},
+	
+	{
+	"name":"HD Media Player - Video Player",
+	"description":"The most powerful Multimedia Player. Both HD Video Player and High quality Music Player.Supported 200+ Video and Audio Formats",
+	"package":"videoplayer.mediaplayer.vlc.musicplayer",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/32.png",
+	"price":"Free"
+	},
+	
+	{
+	"name":"HD Video Player - Movie Player",
+	"description":"Play HD Video,HD Movies. Supports AVI, 3GP, M4V, MOV, MP4, WMV, RMVB, MKV, TS, MPG, FLV, etc. ",
+	"package":"video.videoplayer.hdvideoplayer",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/29.png",
+	"price":"Free"
+	},
+	
+	{
+	"name":"AnyMail - Universal Email App",
+	"description":"AnyMail is one the best universal email app for Android.Works with Gmail, Exchange, Yahoo, Outlook, iCloud, Google Apps, HotMail and any IMAP account etc.",
+	"package":"com.email.anymail",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/12.png",
+	"price":"Free"
+	},
+	
+	{
+	"name":"Holy Bible - All In One",
+	"description":"Holy Bible : One of the best Holy Bible app. Support for multiple languages​​, multiple versions of the Bible.",
+	"package":"com.bible.holybible.activity",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/14.png",
+	"price":"Free"
+	},
+	
+	{
+	"name":"X2Image Convert to Image",
+	"description":"Convert other file format to image(JPG or PNG). Supported: PDF , XPS , CBZ , JFIF , TIF , PNG , JPG etc",
+	"package":"com.sightidea.x2image",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/35.png",
+	"price":"Free",
+	"new":"1"
+	},
+	
+	{
+	"name":"Notes - To do List",
+	"description":"Good helper to manage your schedules and notes. It gives you a quick and simple notepad editing experience when you write notes, memo, email, message, shopping list and to do list.",
+	"package":"com.sightidea.notes",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/34.png",
+	"price":"Free",
+	"new":"1"
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+	"name":"A-Quran : Koran : أَلْقُرآن‎",
+	"description":"A-Quran+ is one of the best Quran App provide the best experience.",
+	"package":"qine.a.quran.free",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/18.png",
+	"price":"Free"
+	},
+	
+	{
+	"name":"ReaderX : EBook CBZ PDF Reader",
+	"description":"ReaderX is a highly customizable book reader.( PDF, DJVU,DjVU, XPS, fb2,etc )",
+	"package":"qine.ebook.readerx",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/20.png",
+	"price":"Free"
+	},
+	
+	{
+	"name":"QRCode Barcode Scanner Plus",
+	"description":"Scan Barcode QRCode, Create Barcode QRCode, Share Barcode QRCode..",
+	"package":"barcodescanner.qrcode.barcode.scanner",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/30.png",
+	"price":"Free"
+	},
+	
+	{
+	"name":"Offline Dictionary",
+	"description":"PocketDict : offline dictionary multilingual translation dictionary.",
+	"package":"com.dictionary.offlinedictionary",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/26.png",
+	"price":"Free"
+	},
+	
+	{
+	"name":"SuperUser+ : Root required",
+	"description":"Grant and manage Superuser rights for your phone.",
+	"package":"com.qine.su",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/22.png",
+	"price":"Free"
+	},
+		
+	{
+	"name":"Video Maker and Editor",
+	"description":"Fully featured video editing program for creating professional looking videos in minutes. ",
+	"package":"com.zoonapp.free.videoeditor",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/17.png",
+	"price":"Free"
+	},
+		
+	{
+	"name":"SSH Master Free - SSH Client",
+	"description":"SSH Master is a powerful Secure Shell (SSH) client.",
+	"package":"com.qine.sshmaster.free",
+	"icon":"https://raw.github.com/ahgyxnb/ajsdhasu/master/x/icons/apps/19.png",
+	"price":"Free"
+	}
+]
